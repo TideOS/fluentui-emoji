@@ -1,6 +1,6 @@
 # Fluent Emoji
 
-Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft.
+Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft. This Emojis will be used to tideOS
 
 ![Fluent Emoji](art/readme_banner.webp)
 
